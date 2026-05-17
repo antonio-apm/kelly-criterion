@@ -69,13 +69,13 @@ Suppose we have bet for $n$ rounds.
 The number of rounds we won is a binomial random variable
 
 $$
-N_{\text{win}} \sim \operatorname{Bin}(n,p)
+N_{\text{win}} \sim \text{Bin}(n,p)
 $$
 
 and the number of rounds we lost is
 
 $$
-N_{\text{lose}} = n - N_{\text{win}} \sim \operatorname{Bin}(n,q)
+N_{\text{lose}} = n - N_{\text{win}} \sim \text{Bin}(n,q)
 $$
 
 Hence, our wealth becomes
