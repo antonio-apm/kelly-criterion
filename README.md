@@ -87,9 +87,7 @@ $$
 so our wealth has grown by
 
 $$
-R_n := \frac{W_n}{W_0}
-=
-(1+bx)^{N_{\text{win}}}(1-ax)^{N_{\text{lose}}}
+R_n := \frac{W_n}{W_0} = (1+bx)^{N_{\text{win}}}(1-ax)^{N_{\text{lose}}}
 $$
 
 which is clearly nonlinear in $(N_{\text{win}}, N_{\text{lose}})$, so $\mathbb{E}(R_n)$ is difficult to calculate.
