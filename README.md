@@ -8,5 +8,5 @@ $$x^*=p-q/b$$
 
 where $p=\mathbb{P}(\text{win one round})$, $q=1-p=\mathbb{P}(\text{lose one round})$, and $b>0$ is the payout from one successful bet. 
 
-A more detailed explanation of the variables and the assumptions, along with a full derivation of the result, is in the PDF.
+A more detailed explanation of the variables and the assumptions, along with a full derivation of the result, is in the PDF document linked above.
 
