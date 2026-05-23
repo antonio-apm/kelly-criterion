@@ -1,6 +1,5 @@
 # Kelly's Criterion for Optimal Bet Sizing
-The math behind the famous optimal bet size formula "Kelly's Criterion".
-Please see the PDF [Kelly_Criterion.pdf](Kelly_Criterion.pdf) for an explanation of the formula and its derivation. 
+The math behind the famous optimal bet size formula "Kelly's Criterion". See the PDF [Kelly_Criterion.pdf](Kelly_Criterion.pdf) for an explanation of the formula and its derivation. 
 
 Kelly's criterion provides a simple formula for the optimal bet size in a gamble with two outcomes under certain assumptions:
 
